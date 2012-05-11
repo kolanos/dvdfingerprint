@@ -1,0 +1,7 @@
+setup.py
+bin/dvdfingerprint
+dvdfingerprint/__init__.py
+dvdfingerprint.egg-info/PKG-INFO
+dvdfingerprint.egg-info/SOURCES.txt
+dvdfingerprint.egg-info/dependency_links.txt
+dvdfingerprint.egg-info/top_level.txt

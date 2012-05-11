@@ -8,7 +8,7 @@ setup(
     description='DVD Fingerprint',
     author='Michael Lavers',
     author_email='kolanos@gmail.com',
-    url='http://discident.com',
+    url='https://github.com/kolanos/dvdfingerprint',
     version='0.1.0',
     license='BSD',
     install_requires=[],

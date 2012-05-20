@@ -1,3 +1,5 @@
+import dvdfingerprint
+
 try:
     from setuptools import setup
 except ImportError:
@@ -5,11 +7,12 @@ except ImportError:
 
 setup(
     name='dvdfingerprint',
-    description='DVD Fingerprint',
+    description='A DVD Fingerprint Geneator',
+    long_description=open('README.rst').read(),
     author='Michael Lavers',
     author_email='kolanos@gmail.com',
     url='https://github.com/kolanos/dvdfingerprint',
-    version='0.1.0',
+    version=dvdfingerprint.__version__,
     license='BSD',
     install_requires=[],
     test_suite='',

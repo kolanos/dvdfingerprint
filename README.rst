@@ -1,4 +1,4 @@
-)DVD Fingerprint
+DVD Fingerprint
 ===============
 
 This is a Python implementation of the disc fingerprinting technique used by the
